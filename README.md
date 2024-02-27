@@ -3,7 +3,7 @@
 Pedaling through the digital landscapes, I'm a software engineer who orchestrates code like a musical maestro. Whether I'm composing Rust symphonies or jamming with JavaScript, I find joy in the rhythm of programming.
 
 ### 🌐 My Digital Journey
-- [LinkedIn](https://www.linkedin/in/fedor-tkachenko)
+- [LinkedIn](https://www.linkedin.com/in/fedor-tkachenko)
 - [Website](https://www.pulko-app.com)
 
 ### 💻 Languages & Tools - My Professional Toolkit
